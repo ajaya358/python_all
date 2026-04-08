@@ -1,0 +1,13 @@
+cd D:\Jayaram\jai\python\fastapi_enterprise_app
+venv\Scripts\activate
+uvicorn main:app --reload
+
+
+# Create a virtual environment (run once)
+python -m venv venv
+
+# Activate the virtual environment (Windows)
+venv\Scripts\activate
+
+# Install core FastAPI stack
+pip install fastapi uvicorn sqlalchemy psycopg2-binary python-dotenv
