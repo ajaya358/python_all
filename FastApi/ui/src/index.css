@@ -1,0 +1,52 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body { font-family: sans-serif; background: #f4f6f8; color: #333; }
+
+nav {
+  display: flex; justify-content: space-between; align-items: center;
+  background: #1a1a2e; color: white; padding: 12px 24px;
+}
+nav .brand { font-size: 1.2rem; font-weight: bold; color: #e94560; }
+nav a { color: #ccc; text-decoration: none; margin-left: 16px; }
+nav a:hover { color: white; }
+nav button { margin-left: 16px; background: #e94560; color: white; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; }
+
+main { max-width: 900px; margin: 30px auto; padding: 0 16px; }
+
+.card {
+  background: white; padding: 32px; border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); max-width: 400px; margin: 0 auto;
+}
+.card h2 { margin-bottom: 20px; }
+.card form { display: flex; flex-direction: column; gap: 12px; }
+
+input {
+  padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+  font-size: 14px; width: 100%;
+}
+input:focus { outline: none; border-color: #1a1a2e; }
+
+button {
+  padding: 8px 16px; background: #1a1a2e; color: white;
+  border: none; border-radius: 4px; cursor: pointer; font-size: 14px;
+}
+button:hover { background: #16213e; }
+button.danger { background: #e94560; margin-left: 6px; }
+button.danger:hover { background: #c73652; }
+
+.row-form {
+  display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;
+}
+.row-form input { flex: 1; min-width: 120px; }
+
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+th { background: #1a1a2e; color: white; padding: 12px; text-align: left; }
+td { padding: 10px 12px; border-bottom: 1px solid #eee; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: #f9f9f9; }
+
+.error { color: #e94560; margin-top: 10px; font-size: 14px; }
+.success { color: #28a745; margin-top: 10px; font-size: 14px; }
+p { margin-top: 14px; font-size: 14px; }
+p a { color: #1a1a2e; font-weight: bold; }
+h2 { margin-bottom: 20px; }
