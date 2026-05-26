@@ -10,3 +10,7 @@ bcrypt
 python-jose[cryptography]
 python-multipart
 slowapi
+pandas
+scikit-learn
+joblib
+numpy

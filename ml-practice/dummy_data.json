@@ -1,0 +1,22 @@
+[
+  {"square_feet": 850, "bedrooms": 2, "bathrooms": 1, "age": 10, "location": "suburb", "price": 120000},
+  {"square_feet": 900, "bedrooms": 3, "bathrooms": 2, "age": 5, "location": "suburb", "price": 145000},
+  {"square_feet": 700, "bedrooms": 2, "bathrooms": 1, "age": 20, "location": "downtown", "price": 98000},
+  {"square_feet": 1560, "bedrooms": 4, "bathrooms": 3, "age": 12, "location": "suburb", "price": 235000},
+  {"square_feet": 1200, "bedrooms": 3, "bathrooms": 2, "age": 8, "location": "suburb", "price": 180000},
+  {"square_feet": 1130, "bedrooms": 3, "bathrooms": 2, "age": 6, "location": "suburb", "price": 175000},
+  {"square_feet": 1750, "bedrooms": 4, "bathrooms": 3, "age": 15, "location": "uptown", "price": 250000},
+  {"square_feet": 980, "bedrooms": 2, "bathrooms": 1, "age": 7, "location": "downtown", "price": 130000},
+  {"square_feet": 640, "bedrooms": 1, "bathrooms": 1, "age": 30, "location": "suburb", "price": 83000},
+  {"square_feet": 2100, "bedrooms": 5, "bathrooms": 4, "age": 3, "location": "uptown", "price": 340000},
+  {"square_feet": 1450, "bedrooms": 3, "bathrooms": 2, "age": 10, "location": "suburb", "price": 205000},
+  {"square_feet": 1800, "bedrooms": 4, "bathrooms": 3, "age": 5, "location": "uptown", "price": 265000},
+  {"square_feet": 1020, "bedrooms": 2, "bathrooms": 1, "age": 25, "location": "downtown", "price": 115000},
+  {"square_feet": 1340, "bedrooms": 3, "bathrooms": 2, "age": 9, "location": "suburb", "price": 190000},
+  {"square_feet": 1600, "bedrooms": 4, "bathrooms": 2, "age": 14, "location": "suburb", "price": 240000},
+  {"square_feet": 890, "bedrooms": 2, "bathrooms": 1, "age": 18, "location": "downtown", "price": 105000},
+  {"square_feet": 1350, "bedrooms": 3, "bathrooms": 2, "age": 11, "location": "suburb", "price": 198000},
+  {"square_feet": 1455, "bedrooms": 3, "bathrooms": 2, "age": 13, "location": "uptown", "price": 215000},
+  {"square_feet": 1720, "bedrooms": 4, "bathrooms": 3, "age": 4, "location": "uptown", "price": 285000},
+  {"square_feet": 940, "bedrooms": 2, "bathrooms": 1, "age": 22, "location": "suburb", "price": 112000}
+]
