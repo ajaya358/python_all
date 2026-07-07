@@ -7,6 +7,8 @@ lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
 
 import keyword
 print(len(keyword.kwlist))  # get all keywords
+print(keyword.kwlist)  # get all keywords
+print("====================================")
 
 
 name ="jayaram"
